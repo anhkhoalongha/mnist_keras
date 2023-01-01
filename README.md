@@ -1,6 +1,6 @@
 # MNIST KERAS
 ## The basic model with deep learning is built with keras
-![structure](https://github.com/anhkhoalongha/mnist_keras/blob/main/structure.png](https://github.com/anhkhoalongha/mnist_keras/blob/main/structure.png?raw=true)
+![plot](https://github.com/anhkhoalongha/mnist_keras/blob/main/structure.png?raw=true)
 ## Parameter
 
 aug= ImageDataGenerator(rotation_range=0.18, zoom_range=0.15, width_shift_range=0.2, horizontal_flip=True)
